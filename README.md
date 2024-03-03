@@ -1,6 +1,6 @@
 <h1 align="center"><b>тнє нєℓℓвσт</b></h1>
 
-<p align="center"><img src="https://te.legra.ph/file/d64669dd01c40923f1da4.jpg" alt="The HellBot"></p>
+<p align="center"><img src="https://telegra.ph/file/27b1424eedf2c80ac1bc3.jpg" alt="Un Bots"></p>
 
 <h2 align="center">🚀 Telegram Bot on Steroids!</h3>
 
